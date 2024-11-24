@@ -9,6 +9,7 @@ body {
     border: 3px solid black;
     margin:0;
     padding: 0;
+    font-family: "Roboto", sans-serif;
 }
 
 body > div {
@@ -39,6 +40,9 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
+    display: flex;
+    gap: 15px;
+    align-items: center;
 }
 
 a {
@@ -50,4 +54,10 @@ a {
 .logo {
     color: #F9FAF8;
     font-size: 24px;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
 }
