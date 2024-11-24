@@ -108,3 +108,11 @@ img {
     width: 80%;
     margin-left: auto;
 }
+
+.second_quart > h1 {
+    color: #1F2937;
+    font-weight: 900;
+    font-size: 56px;
+    text-align: center;
+    margin-top: 65px;
+}
