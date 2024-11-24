@@ -153,3 +153,39 @@ img {
     width: 235px;
     border: 3px solid yellow;
 }
+.third_quart {
+    background-color: #E5E7EB;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.quote {
+   
+    color: #1F2937;
+    font-style: italic;
+    font-size: 60px;
+    font-weight: 300;
+    text-align: left;
+    padding: 100px;
+    margin-bottom: 0;
+    padding-bottom:0 ;
+    
+}
+
+.author_text {
+    width: 65%;
+    border: 3px solid black;
+    display: flex;
+    justify-content: end;
+}
+
+.author_text > p {
+    
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+    
+}
+ 
