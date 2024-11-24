@@ -1,0 +1,17 @@
+
+
+body {
+    box-sizing: border-box;
+    height: 350vh;
+    border: 3px solid black;
+    margin:0;
+    padding: 0;
+
+}
+
+div {
+    box-sizing: border-box;
+    border: 3px solid black;
+    height: 25%;
+    font-family: "Roboto", sans-serif;
+}
