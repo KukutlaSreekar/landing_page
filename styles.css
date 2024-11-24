@@ -223,3 +223,17 @@ img {
     font-size: larger;
     border: 3px solid white;
 }
+
+.footer {
+    background-color: #1F2937;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer > p{
+    color: white;
+    font-weight: bold;
+
+}
