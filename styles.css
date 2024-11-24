@@ -104,12 +104,27 @@ img {
     margin-left: auto;
 }
 
-.second_quart > h1 {
+.second_quart {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.q2_main_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.q2_main_container > h1 {
+
     color: #1F2937;
     font-weight: 900;
     font-size: 56px;
     text-align: center;
-    margin-top: 65px;
+    
 }
 
 .cont_u_img > img{
