@@ -187,6 +187,7 @@ img {
     width: 65%;
     display: flex;
     justify-content: end;
+    padding-right: 80px;
 }
 
 .author_text > p {
