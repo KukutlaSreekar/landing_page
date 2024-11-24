@@ -91,7 +91,7 @@ br {
     white-space: normal; /* Allows wrapping at the <br> tag */
 }
 
-button{
+.button1{
     
     color:white ;
     background-color: #3882F6;
@@ -189,3 +189,37 @@ img {
     
 }
  
+.cta_container {
+    border: 3px solid yellow;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 200px;
+}
+
+.cta {
+    border: 3px solid black;
+    height: 200px;
+    background-color: #3882F6;
+    padding: 65px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cta_p1 {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.button2 {
+    color:white ;
+    background-color: #3882F6;
+    padding: 12px 50px 12px 50px;
+    border-radius: 10px;
+    font-weight: bolder;
+    margin-top: 12px;
+    font-size: larger;
+    border: 3px solid white;
+}
