@@ -1,12 +1,14 @@
+* {
+    box-sizing: border-box;
+}
 
 
 body {
     box-sizing: border-box;
-    height: 350vh;
+    height: 300vh;
     border: 3px solid black;
     margin:0;
     padding: 0;
-
 }
 
 div {
@@ -14,4 +16,21 @@ div {
     border: 3px solid black;
     height: 25%;
     font-family: "Roboto", sans-serif;
+}
+
+.first_quart{
+    background-color: #1F2937;
+    padding-right: 250px;
+    padding-left: 250px;
+    padding-bottom:175px;
+    padding-top: 25px;
+}
+
+.q1_main_container {
+    
+    border: 3px solid black;
+    height: 100%;
+    
+    
+    
 }
